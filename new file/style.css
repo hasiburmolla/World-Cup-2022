@@ -98,8 +98,6 @@ span {
 .players-card-info {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    align-items: center;
-    justify-content: center;
 }
 
 .player-card {
@@ -129,6 +127,7 @@ span {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 40px;
 }
 
 /*============================================= 
